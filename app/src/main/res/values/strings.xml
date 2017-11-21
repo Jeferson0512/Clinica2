@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Citas Médicas</string>
+    <string name="text_cuenta_google">¿Tiene una cuenta de Google?</string>
+    <string name="txt_log_in">Iniciar Sesión</string>
+    <string name="user_txt">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="new_user">¿Nuevo usuario?</string>
+    <string name="slogan_2">Tu comunicación nos importa</string>
+    <string name="sub_slogan_2">Contáctate con tu doctor de cabecera sin perder tiempo</string>
+    <string name="app_intro_skip_button">Saltar</string>
+    <string name="app_intro_done_button">Hecho</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="Home">Inicio</string>
+    <string name="medical_dates">Citas</string>
+    <string name="doctor_list">Nuestros doctores</string>
+    <string name="comunication">Comunícate con nosotros</string>
+    <string name="messages">Mensajes</string>
+    <string name="settings">Opciones</string>
+    <string name="log_out">Cerrar Sesión</string>
+    <string name="question_exit">¿Desea salir de la aplicación?</string>
+    <string name="accept">Aceptar</string>
+    <string name="cancel">Cancelar</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

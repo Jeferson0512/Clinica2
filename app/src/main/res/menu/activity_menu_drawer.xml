@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="@string/Home" />
+        <item
+            android:id="@+id/nav_dates"
+            android:icon="@drawable/ic_calendar_2"
+            android:title="@string/medical_dates" />
+        <item
+            android:id="@+id/nav_doctor"
+            android:icon="@drawable/ic_medic"
+            android:title="@string/doctor_list" />
+    </group>
+
+    <item android:title="@string/comunication">
+        <menu>
+            <item
+                android:id="@+id/nav_message"
+                android:icon="@drawable/ic_chat"
+                android:title="@string/messages" />
+        </menu>
+    </item>
+    <group android:id="@+id/group_options">
+        <item
+            android:id="@+id/nav_settings"
+            android:title="@string/settings"
+            android:icon="@drawable/ic_settings"
+            />
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/ic_logout"
+            android:title="@string/log_out"/>
+    </group>
+
+</menu>

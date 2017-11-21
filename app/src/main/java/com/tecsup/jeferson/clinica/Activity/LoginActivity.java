@@ -111,7 +111,7 @@ public class LoginActivity extends AppCompatActivity {
     }
 
     private void goDashboard() {
-        Intent intent = new Intent(this, MainActivity.class);
+        Intent intent = new Intent(this, MenuActivity.class);
         intent.putExtra("correo",username_login.getText().toString());
         startActivity(intent);
         finish();

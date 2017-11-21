@@ -9,6 +9,7 @@ import android.view.ViewGroup;
 import com.bumptech.glide.Glide;
 import com.tecsup.jeferson.clinica.Holder.DoctorHolder;
 import com.tecsup.jeferson.clinica.Model.Medicos;
+import com.tecsup.jeferson.clinica.R;
 
 import java.util.ArrayList;
 import java.util.List;
